@@ -1,2 +1,2 @@
-# Pyyhon_Docs
+# Python_Docs
 Python Notes
