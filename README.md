@@ -1,2 +1,2 @@
 # Python_Docs
-Python Notes
+Python Notes and Few Datatypes
